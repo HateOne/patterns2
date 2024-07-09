@@ -74,7 +74,7 @@ public class UserTest {
 
     }
 
-}
+
 
     @Test
     @DisplayName("Should get error message if login with wrong password")
@@ -90,5 +90,5 @@ public class UserTest {
     }
 
 
-
+}
 
